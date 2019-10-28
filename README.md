@@ -32,7 +32,7 @@ Options:
   --help                   查看使用帮助且退出
 
 ```
-![Screenshot](https://cjero.github.io/public/Screenshot.png)
+![Screenshot](https://github.com/CJero/Nict/blob/master/Screenshot.png)
 ## 更新
 + v1.0 初始版本
 ## 最后
