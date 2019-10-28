@@ -37,4 +37,4 @@ Options:
 + v1.0 初始版本
 ## 最后
 喜欢就点亮star哇&欢迎大家反馈建议和BUG。
-项目地址:https://github.com/CJero/
+项目地址:https://github.com/CJero/Nict
