@@ -36,7 +36,8 @@ def check_environment():
         # is install import packages?
         import click
         import requests
-        import dns.resolver
+        import dns
+        import prettytable
     except:
         exec_msg = traceback.format_exc()
         if any(_ in exec_msg for _ in ("ImportError", "ModuleNotFoundError", "Can't find file for module")):
